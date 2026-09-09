@@ -4,14 +4,14 @@
 
 const CONFIG = {
   // WhatsApp number of the agent who receives leads
-  AGENT_WHATSAPP: "60189777457",
+  AGENT_WHATSAPP: "60132319413",
 
   // Name of the agent
-  AGENT_NAME: "Steven Chong",
+  AGENT_NAME: "Chung",
 
   // Google Apps Script web‑app URL that logs events and lead data
   SHEET_URL:
-    "https://script.google.com/macros/s/AKfycbw-ebeNmcixpJsvRTGiksw-568nVIuDusQfzB2Op9YSt1PxaXgt7283roksREsdR2N0ag/exec",
+    "https://docs.google.com/spreadsheets/d/1uKEcLFYedx5y3EjZwLm7-qCmqesAWTR_ozwmUcfI8PE/edit?gid=27405099#gid=27405099",
 
   // Flag to pull listings from the sheet instead of a static JSON file
   LOAD_LISTINGS_FROM_SHEET: true,
